@@ -247,7 +247,7 @@ function create_config( )
     "addplug" 
     "launch"
     },
-    sudo_users = {160890821},(our_id)},--Sudo users
+    sudo_users = {219602465,187161700},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -259,6 +259,8 @@ Admins
 @Xx_hacker_boy_xX
 
 @Xx_nfrat_xX
+
+@zeus_team
 
 
 
